@@ -10,4 +10,4 @@ node_modules/
 jspm_packages/
 
 
-
+/mySQL_pass.txt
