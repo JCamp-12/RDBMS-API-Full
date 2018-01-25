@@ -1,4 +1,3 @@
-# RDBMS-API-Full
 # Building and API using a Relational Database
 
 ## Topics

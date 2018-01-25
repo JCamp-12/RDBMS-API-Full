@@ -1,3 +1,0 @@
-2018-01-25T19:07:51.736860Z 1 [Note] A temporary password is generated for root@localhost: oK<av=6QJaUR
-
-If you lose this password, please consult the section How to Reset the Root Password in the MySQL reference manual.
